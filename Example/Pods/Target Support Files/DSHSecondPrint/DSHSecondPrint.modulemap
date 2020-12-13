@@ -1,0 +1,6 @@
+framework module DSHSecondPrint {
+  umbrella header "DSHSecondPrint-umbrella.h"
+
+  export *
+  module * { export * }
+}
